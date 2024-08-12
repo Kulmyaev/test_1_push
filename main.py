@@ -10,3 +10,4 @@ print(f"test, test: = {p}")
 age = 14
 if age > 13:
     print('123456789010')
+s[:4]+'a'+s[5:]
