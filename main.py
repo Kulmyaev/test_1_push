@@ -5,3 +5,7 @@ d = 9
 p = 40
 p = (p + d)
 print(f"test, test: = {p}")
+
+age = 14
+if age > 13:
+    print('1234567890')
