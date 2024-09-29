@@ -1,3 +1,5 @@
+from typing import List
+
 # функция
 def hello():
     print("Hello world")
@@ -13,3 +15,7 @@ sity: str = 'Gamora'
 
 focus(name,sity)
 
+name: str = 'Tommy'
+age: int = 24
+height_in_meters: float = 1.7
+colleagues: List[str] = ['Alicia', 'John']
